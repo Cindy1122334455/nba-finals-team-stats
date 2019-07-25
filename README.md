@@ -27,13 +27,13 @@ Model Evaluation: ROC curve and Confusion Matrix
 Offensive Side: 
 
 • Don’t be afraid of “Away Games”
-***
+
 • Having more “Catch and Shoot”  
-***
+
 • “Early Fighters” win the game 
 
 Defensive Side:
 
 • Keep closer 
-***
+
 • The taller, the better 
