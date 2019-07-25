@@ -7,8 +7,9 @@ NBA teams are constantly searching for better players and court strategy. There 
 
 Our project aims to improve the court performance from both offensive side and defensive side with following research questions: 
 
-• How do offenders affect shot results? 
-• How do defenders affect shot results? 
+•  How do offenders affect shot results? 
+
+•  How do defenders affect shot results? 
 
 **Data Source**
 
@@ -26,14 +27,15 @@ Model Evaluation: ROC curve and Confusion Matrix
 
 Offensive Side: 
 
-• Don’t be afraid of “Away Games”
+•  Don’t be afraid of “Away Games”
 
-• Having more “Catch and Shoot”  
+•  Having more “Catch and Shoot”  
 
-• “Early Fighters” win the game 
+•  “Early Fighters” win the game 
+
 
 Defensive Side:
 
-• Keep closer 
+•  Keep closer 
 
-• The taller, the better 
+•  The taller, the better 
