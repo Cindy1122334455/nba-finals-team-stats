@@ -28,13 +28,11 @@ Model Evaluation: ROC curve and Confusion Matrix
 
 •  Having more “Catch and Shoot”  
 
-•  “Early Fighters” win the game 
-
+•  “Early Fighters” win the game             ![download](https://user-images.githubusercontent.com/34041602/61908592-43d49c00-aeed-11e9-81f4-4c51c50d5696.png)
 
 **Defensive Side:**
 
 •  Keep closer 
 
 •  The taller, the better    
-![download](https://user-images.githubusercontent.com/34041602/61908592-43d49c00-aeed-11e9-81f4-4c51c50d5696.png)
 
