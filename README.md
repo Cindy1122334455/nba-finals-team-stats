@@ -1,5 +1,4 @@
-# NBA Shot Probability Analysis                     ![download](https://user-images.githubusercontent.com/34041602/61908592-43d49c00-aeed-11e9-81f4-4c51c50d5696.png)
-
+# NBA Shot Probability Analysis                    
 
 ## Research Questions
 NBA teams are constantly searching for better players and court strategy. There are many aspects of an NBA player that a general manager must consider when performing their analysis: offensive and defensive ability, makeup, personality, etc. Many of these skills, especially those pertaining to offense and defense, can be quantified using statistical measures. One of the most common measures in basketball pertains to shot results. 
@@ -36,4 +35,5 @@ Model Evaluation: ROC curve and Confusion Matrix
 
 •  Keep closer 
 
-•  The taller, the better 
+•  The taller, the better    ![download](https://user-images.githubusercontent.com/34041602/61908592-43d49c00-aeed-11e9-81f4-4c51c50d5696.png)
+
