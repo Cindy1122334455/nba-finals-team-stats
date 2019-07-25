@@ -35,5 +35,6 @@ Model Evaluation: ROC curve and Confusion Matrix
 
 •  Keep closer 
 
-•  The taller, the better    ![download](https://user-images.githubusercontent.com/34041602/61908592-43d49c00-aeed-11e9-81f4-4c51c50d5696.png)
+•  The taller, the better    
+![download](https://user-images.githubusercontent.com/34041602/61908592-43d49c00-aeed-11e9-81f4-4c51c50d5696.png)
 
